@@ -10,7 +10,7 @@ A simple, beautiful, and interactive to-do list manager to help you organize you
 
 <h2>Installation</h2>
 <h3>1.Clone the repository:</h3>
-git clone https://github.com/yourusername/todo-list-manager.git
+git clone https://github.com/Ayush8418/todo-list-manager.git
 cd todo-list-manager
 
 <h3>Install dependencies:</h3>
